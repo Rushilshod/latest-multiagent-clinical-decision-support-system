@@ -1,8 +1,5 @@
-<div align="center">
- 
-![logo](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/blob/main/assets/logo_rounded.png)
 
-<h1 align="center"><strong>⚕️ Multi-Agent-Medical-Assistant :<h6 align="center">AI-powered multi-agentic system for medical diagnosis and assistance</h6></strong></h1>
+
 
 <!-- ![PyTorch - Version](https://img.shields.io/badge/PYTORCH-2.0+-red?style=for-the-badge&logo=pytorch) -->
 ![Python - Version](https://img.shields.io/badge/PYTHON-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -54,15 +51,7 @@ Using a **Multi-Agentic framework**, this assistant integrates **Large Language 
 
 ---
 
-<!-- ## 🌟 Key Features  <a name="key-features"></a>
-✅ **Multi-Agent System** – Separate agents handle different tasks (diagnosis, retrieval, reasoning, etc.).  
-✅ **RAG-based Retrieval** – Uses Qdrant for vector search & hybrid retrieval techniques.  
-✅ **Medical Image Analysis** – Supports **brain tumor segmentation, chest X-ray disease detection, and skin lesion classification**.  
-✅ **Web Search Agent** – Fetches the latest medical research when required.  
-✅ **Confidence Score Check** – Ensures high accuracy with log probability-based verification.  
-✅ **Speech-to-Text & Text-to-Speech** – Uses **Eleven Labs API** for voice interactions.  
-✅ **Human-in-the-Loop Verification** – Medical professionals validate the AI’s results before final output.  
-✅ **Intuitive UI** – Built for seamless user experience.  
+
 
 ---
 
