@@ -42,11 +42,9 @@ Using a **Multi-Agentic framework**, this assistant integrates **Large Language 
 
 ---
 
-## 💫 Demo <a name="demo"></a>
 
-https://github.com/user-attachments/assets/42df729c-7f74-4af1-a3df-e88226af8549
 
-If you like what you see and would want to support the project's developer, you can <a href="https://www.buymeacoffee.com/souvikmajumder" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> ! :)
+
 
 ---
 
@@ -240,26 +238,11 @@ This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LIC
 
 ---
 
-## 📝 Citing <a name="citing"></a>
-```
-@misc{Souvik2025,
-  Author = {Souvik Majumder},
-  Title = {Multi Agent Medical Assistant},
-  Year = {2025},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant}}
-}
 ```
 
 ---
 
-## 📬 Contact  <a name="contact"></a>
-For any questions or collaboration inquiries, reach out to **Souvik Majumder** on:  
 
-🔗 **LinkedIn**: [https://www.linkedin.com/in/souvikmajumder26](https://www.linkedin.com/in/souvikmajumder26)
-
-🔗 **GitHub**: [https://github.com/souvikmajumder26](https://github.com/souvikmajumder26)
 
 <p align="right">
  <a href="#top"><b>🔝 Return </b></a>
